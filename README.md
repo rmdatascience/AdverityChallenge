@@ -13,7 +13,7 @@ This project was created by:
 	1) Roberto Medina, PhD
 
 
-The code 'detect_outliers.ipynb' (or 'detect_outliers.py') is located in folder src.
+The code detect_outliers.ipynb (or .py) is located in folder src.
 
 To run it, please deposit in the same folder the data file 'train.csv' downloadable from https://www.kaggle.com/c/avazu-ctr-prediction 
 
