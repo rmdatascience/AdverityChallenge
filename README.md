@@ -27,5 +27,3 @@ However, I also include my exact environment in folder env which can be installe
 conda env list
 3) Activate desired env
 "conda activate rm_env.yml"
-
-An HTML of the jupyter notebook is also included in the main folder for viewing convenience
